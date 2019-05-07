@@ -14,3 +14,4 @@ mvn install
 mvn clean:build
 
 Port - 8080
+http://localhost:8080/patientKeeperApp/admin
